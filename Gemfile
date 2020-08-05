@@ -54,3 +54,4 @@ group :test do
 end
 
 gem "stimulus_reflex", "~> 3.2"
+gem "thor"

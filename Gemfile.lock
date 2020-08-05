@@ -234,6 +234,7 @@ DEPENDENCIES
   spring-watcher-listen (~> 2.0.0)
   sqlite3 (~> 1.4)
   stimulus_reflex (~> 3.2)
+  thor
   turbolinks (~> 5)
   web-console (>= 3.3.0)
   webdrivers
