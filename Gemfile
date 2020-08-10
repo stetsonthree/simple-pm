@@ -56,5 +56,5 @@ group :test do
   gem 'webdrivers'
 end
 
-gem "stimulus_reflex", "~> 3.2"
+gem "stimulus_reflex", "3.3.0.pre2"
 gem "thor"
